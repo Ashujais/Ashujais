@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashujais
+- 👋 Hi, I’m @Ashutosh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,HTMl,css
 - 💞️ I’m looking to collaborate on ...
